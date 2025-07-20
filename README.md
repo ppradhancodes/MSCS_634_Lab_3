@@ -6,7 +6,7 @@
 
 ---
 
-## 🧪 Lab Overview
+## Lab Overview
 
 In this lab, we explore unsupervised machine learning techniques, specifically clustering, using the **Wine dataset** from the `sklearn.datasets` module. The goal is to apply and evaluate **K-Means** and **K-Medoids** algorithms, compare their performance, and visualize the resulting clusters.
 
@@ -18,7 +18,7 @@ This lab enhances understanding of:
 
 ---
 
-## 🧭 Steps Performed
+## Steps Performed
 
 1. **Load and explore the Wine dataset**
    - Dataset contains 178 instances with 13 features representing chemical analysis of wines.
@@ -41,7 +41,7 @@ This lab enhances understanding of:
 
 ---
 
-## 📊 Results Summary
+## Results Summary
 
 | Algorithm   | Silhouette Score | Adjusted Rand Index |
 |-------------|------------------|----------------------|
@@ -53,7 +53,7 @@ This lab enhances understanding of:
 
 ---
 
-## 🔍 Observations
+## Observations
 
 - K-Means is faster and performs well when clusters are spherical and balanced.
 - K-Medoids is preferred when the dataset has noise or outliers, since it’s less sensitive to them.
@@ -62,7 +62,7 @@ This lab enhances understanding of:
 
 ---
 
-## ⚙️ Dependencies
+## Dependencies
 
 To run the notebook, install the following libraries:
 

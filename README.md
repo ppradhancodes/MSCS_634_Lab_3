@@ -1,6 +1,6 @@
 # Lab 3: Clustering Analysis Using K-Means and K-Medoids Algorithms
 
-**Course**: MSCS 634 – Big Data and Data Mining  
+**Course**: MSCS-634-B01 – Big Data and Data Mining  
 **Student Name**: Prafulla Pradhan
 **Lab Title**: Clustering on the Wine Dataset  
 
